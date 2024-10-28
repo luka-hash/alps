@@ -1,0 +1,4 @@
+mail.example.org {
+	reverse_proxy localhost:1323
+}
+
